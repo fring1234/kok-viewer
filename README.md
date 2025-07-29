@@ -2,7 +2,7 @@ INSTRUCTIONS:
 1. Download the source code
 2. Get the video files here: (awaiting permission)
 4. Place the source code and video files in the same folder like so:
-<img width="764" height="225" alt="image" src="https://github.com/user-attachments/assets/44dfb14b-31b0-483a-8ea5-b88b844130a5" />
+<img width="759" height="220" alt="image" src="https://github.com/user-attachments/assets/e40b8b69-f909-4569-988a-5d99ad42abe9" />
 
 6. Go to terminal and cd to where the files are
 7. Run: (Also make sure you have Node.js installed)
